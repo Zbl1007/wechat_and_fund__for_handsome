@@ -1,0 +1,6 @@
+.idea
+venv
+/images/*
+*.sh
+*.out
+**/__pycache__/

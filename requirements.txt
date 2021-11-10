@@ -1,0 +1,10 @@
+Pillow
+requests
+colorama
+prettytable
+pymysql
+wechatpy
+xmltodict
+flask
+sqlalchemy
+cryptography
